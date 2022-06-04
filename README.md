@@ -7,8 +7,8 @@
 <a href="#"><img title="ZERO MULTI DEVICE" src="https://img.shields.io/badge/ZERO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zero7v"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zero7v"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zero7v"><img title="Author" src="https://img.shields.io/badge/Author-VIMUKTHI-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zero7v"><img title="Recode" src="https://img.shields.io/badge/Recode-VIMUKTHI-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zero7v/followers"><img title="Followers" src="https://img.shields.io/github/followers/zero7v?color=red&style=flat-square"></a>
