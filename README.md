@@ -20,7 +20,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FChika-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/riychdwayne/Chika-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zero7v/zero-v1)
 
+# `Scan QR Code For Session`
+ 
+<a href="https://bit.ly/3MnJRjE"><img title="ZERO_MD" src="[https://repl.it/badge/github/quiec/whatsasena](https://replit.com/@vimukthioshada3/Session-Md?lite=1&outputonly=1#index.js)" width="300"></a>
+  <br><br><br>
+# `Change Session In Github`
 
 </div>
 
