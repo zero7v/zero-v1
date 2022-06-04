@@ -7,14 +7,14 @@
 <a href="#"><img title="ZERO MULTI DEVICE" src="https://img.shields.io/badge/ZERO MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/riychdwayne"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zero7v"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zero7v"><img title="Recode" src="https://img.shields.io/badge/Recode-Riy-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zero7v/followers"><img title="Followers" src="https://img.shields.io/github/followers/zero7v?color=red&style=flat-square"></a>
-<a href="https://github.com/zero7v/Chika-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/Chika-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zero7v/Chika-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/Chika-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zero7v/Chika-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/Chika-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zero7v/zero-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/riychdwayne/zero-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/zero7v/zero-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/riychdwayne/zero-v1?color=red&style=flat-square"></a>
+<a href="https://github.com/zero7v/zero-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/riychdwayne/zero-v1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zero7v/Chika-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zero7v/Chika-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zero7v/Chika-Md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FChika-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
