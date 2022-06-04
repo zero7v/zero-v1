@@ -23,7 +23,7 @@
   # `Deploy In Heroku`
 
 
-<a href="https://gist.github.com/Alien-alfa/4a3f940e9e65eee62fd76ffebf302cf1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://dashboard.heroku.com/new-app?button-url=https%3A%2F%2Fgithub.com%2Fzero7v%2Fzero-v1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 # `Scan QR Code For Session`
  
 <a href="https://bit.ly/3MnJRjE"><img title="ZERO_MD" src="[https://repl.it/badge/github/quiec/whatsasena](https://replit.com/@vimukthioshada3/Session-Md?lite=1&outputonly=1#index.js)" width="300"></a>
